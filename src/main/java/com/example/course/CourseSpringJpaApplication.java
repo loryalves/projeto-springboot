@@ -1,4 +1,4 @@
-package com.example.course_spring_jpa;
+package com.example.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.example.course_spring_jpa.resources;
+package com.example.course.resources;
 
-import com.example.course_spring_jpa.entities.User;
+import com.example.course.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

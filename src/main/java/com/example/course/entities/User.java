@@ -1,4 +1,4 @@
-package com.example.course_spring_jpa.entities;
+package com.example.course.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
